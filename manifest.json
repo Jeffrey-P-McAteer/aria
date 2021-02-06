@@ -1,0 +1,22 @@
+{
+  "name": "Aria!",
+  "short_name": "Aria",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#DFE5BB",
+  "theme_color": "#DFE5BB",
+  "orientation": "portrait",
+  "description": "Aria is a small proof-of-concept for a cross-platform AR app which lets you put text on physical objects and the app will remember the location of the text.",
+  "icons": [
+    {
+      "src": "images/icon512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ]
+}
