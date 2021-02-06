@@ -26,3 +26,8 @@ Official color pallet (randomly chosen): https://www.colourlovers.com/palette/47
  - `D06B6B` red
 
 
+Other notes:
+
+This work is a copy-paste of documentation examples and does not constitute any kind of intellectual property
+and should be considered either public domain or under the copyright of the origin documentation.
+
