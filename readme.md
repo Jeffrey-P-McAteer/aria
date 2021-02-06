@@ -5,6 +5,10 @@ Aria is a small proof-of-concept for a cross-platform AR app
 which lets you put text on physical objects and the app
 will remember the location of the text.
 
+[Demo][2]
+
+[2]: https://jeffrey-p-mcateer.github.io/aria/index.html
+
 ## Features
 
  - No networking! (all processing done locally [with some TODOs][1])
